@@ -1,6 +1,6 @@
 {
-  "name": "webpack-dev-middleware",
-  "version": "1.10.2",
+  "name": "@drivemotors/webpack-dev-middleware",
+  "version": "9.10.1",
   "author": "Tobias Koppers @sokra",
   "description": "Offers a dev middleware for webpack, which arguments a live bundle to a directory",
   "peerDependencies": {
@@ -29,11 +29,11 @@
   "engines": {
     "node": ">=0.6"
   },
-  "homepage": "http://github.com/webpack/webpack-dev-middleware",
+  "homepage": "http://github.com/DriveMotors/webpack-dev-middleware",
   "main": "middleware.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webpack/webpack-dev-middleware.git"
+    "url": "https://github.com/DriveMotors/webpack-dev-middleware.git"
   },
   "files": [
     "middleware.js",
