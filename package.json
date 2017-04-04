@@ -1,6 +1,6 @@
 {
   "name": "@drivemotors/webpack-dev-middleware",
-  "version": "9.10.1",
+  "version": "9.10.2",
   "author": "Tobias Koppers @sokra",
   "description": "Offers a dev middleware for webpack, which arguments a live bundle to a directory",
   "peerDependencies": {
